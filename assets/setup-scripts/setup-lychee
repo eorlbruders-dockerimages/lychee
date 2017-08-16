@@ -1,0 +1,2 @@
+chown http:http -R /srv/http/Lychee/uploads /srv/http/Lychee/data
+chmod 777 -R /srv/http/Lychee/uploads /srv/http/Lychee/data
